@@ -1,8 +1,5 @@
 # Fast Powering Algorithm
 
-_Read this in other languages:_
-[français](README.fr-FR.md).
-
 **The power of a number** says how many times to use the number in a
 multiplication.
 

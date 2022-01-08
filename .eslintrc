@@ -5,16 +5,13 @@
   "env": {
     "jest/globals": true
   },
+  "ignorePatterns": ["*.md", "**/node_modules/*.js"],
   "rules": {
     "no-bitwise": "off",
     "no-lonely-if": "off",
     "class-methods-use-this": "off",
     "arrow-body-style": "off",
-    "no-loop-func": "off"
-  },
-  "settings": {
-    "react": {
-      "version": "latest"
-    }
+    "no-loop-func": "off",
+    "linebreak-style": ["error", "windows"]
   }
 }

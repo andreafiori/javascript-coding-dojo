@@ -1,9 +1,5 @@
 # Fibonacci Number
 
-_Read this in other languages:_
-[français](README.fr-FR.md),
-[简体中文](README.zh-CN.md).
-
 In mathematics, the Fibonacci numbers are the numbers in the following
 integer sequence, called the Fibonacci sequence, and characterized by
 the fact that every number after the first two is the sum of the two
